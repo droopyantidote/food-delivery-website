@@ -28,10 +28,10 @@
   flex-direction: column;
 }
 
-#services .box{
-    padding: 14px;
-    margin: 2px 0px;
-    margin-bottom: 20px;
+#services .box {
+  padding: 14px;
+  margin: 2px 0px;
+  margin-bottom: 20px;
 }
 
 /* Clients Section */
